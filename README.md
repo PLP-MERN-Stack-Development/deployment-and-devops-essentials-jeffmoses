@@ -246,14 +246,18 @@ The application is fully responsive and works on:
 
 ## 🌐 Deployment URLs
 
+### Production Environment
+- **Client URL:** https://mern-chat-app-livid.vercel.app/
+- **Server URL:** https://mern-chat-app-o7l1.onrender.com 
+- **API Base URL:** https://mern-chat-app-o7l1.onrender.com/api
+
 ### Development Environment
 - **Client URL:** http://localhost:5173
 - **Server URL:** http://localhost:5000
 - **API Base URL:** http://localhost:5000/api
 
 ### Staging Environment
-- **Client URL:** https://mern-chat-app-livid.vercel.app/
-- **Server URL:** https://mern-chat-app-o7l1.onrender.com
+
 
 ## 🤝 Contributing
 
