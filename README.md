@@ -244,6 +244,17 @@ The application is fully responsive and works on:
 2. Serve static files from `dist` directory
 3. Configure API endpoints for production
 
+## 🌐 Deployment URLs
+
+### Development Environment
+- **Client URL:** http://localhost:5173
+- **Server URL:** http://localhost:5000
+- **API Base URL:** http://localhost:5000/api
+
+### Staging Environment
+- **Client URL:** https://mern-chat-app-livid.vercel.app/
+- **Server URL:** https://mern-chat-app-o7l1.onrender.com
+
 ## 🤝 Contributing
 
 1. Fork the repository
